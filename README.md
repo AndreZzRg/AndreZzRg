@@ -1,8 +1,16 @@
-# ¡Hola! 👋 Soy Andres 
+# ¡Hola! 👋 Soy Andrés 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Systems+Engineer;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  
+🌐 **[Ver Perfil Completo e Interactivo](https://andrezzrg.github.io/AndreZzRg/)**
+
+</div>
+
+---
 
 ## 🎯 Sobre mí
 
@@ -16,44 +24,44 @@
 <div align="center">
 
 #### ☁️ Cloud & Infraestructura
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
 
 #### 💻 Desarrollo
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
 
 #### 🗄️ Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
 
 #### 🔒 Ciberseguridad
-![SIEM](https://img.shields.io/badge/SIEM-FF6B35?style=for-the-badge&logo=security&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC_Experience-2E8B57?style=for-the-badge&logo=shield&logoColor=white)
+<img src="https://img.shields.io/badge/SIEM-FF6B35?style=for-the-badge&logo=security&logoColor=white" alt="SIEM" />
+<img src="https://img.shields.io/badge/SOC_Experience-2E8B57?style=for-the-badge&logo=shield&logoColor=white" alt="SOC Experience" />
 
 #### 🔧 DevOps & Automatización
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 #### 🛠️ Herramientas & Metodologías
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+<img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
 
 </div>
 
 ## 🚀 Mi Trayectoria
 
-Empecé como desarrollador de software y ahora me apasiona la **ciberseguridad** y la **gestión de sistemas**[1]. Mi experiencia abarca desde el desarrollo full-stack hasta la implementación de soluciones de seguridad en entornos empresariales.
+Empecé como desarrollador de software y ahora me apasiona la **ciberseguridad** y la **gestión de sistemas**. Mi experiencia abarca desde el desarrollo full-stack hasta la implementación de soluciones de seguridad en entornos empresariales.
 
 **Formación:**
 - 🎓 Técnico en Sistemas
@@ -95,7 +103,7 @@ Empecé como desarrollador de software y ahora me apasiona la **ciberseguridad**
 🚧 **Azure Security Dashboard** - Panel de monitoreo con ASP.NET y Azure  
 🚧 **SIEM Analytics Tool** - Herramientas de análisis con Python  
 🚧 **Kubernetes Deployment Suite** - Automatización de despliegues  
-🚧 **Survey Management System** - Sistema de encuestas full-stack[3]  
+🚧 **Survey Management System** - Sistema de encuestas full-stack  
 🚧 **SOC Automation Scripts** - Scripts para automatizar tareas de SOC  
 🚧 **Data Integration Pipeline** - ETL con Python y bases NoSQL  
 
@@ -128,6 +136,12 @@ Empecé como desarrollador de software y ahora me apasiona la **ciberseguridad**
 </div>
 
 ---
+
+<div align="center">
+  
+🌐 **[🚀 Visita mi Perfil Interactivo Completo](https://andrezzrg.github.io/AndreZzRg/)**
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndreZzRg&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
