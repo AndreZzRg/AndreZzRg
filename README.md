@@ -106,7 +106,7 @@ Empecé como desarrollador de software y ahora me apasiona la **ciberseguridad**
 🚧 **Survey Management System** - Sistema de encuestas full-stack  
 🚧 **SOC Automation Scripts** - Scripts para automatizar tareas de SOC  
 🚧 **Data Integration Pipeline** - ETL con Python y bases NoSQL  
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -117,7 +117,7 @@ Empecé como desarrollador de software y ahora me apasiona la **ciberseguridad**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreZzRg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
+-->
 ## 🎮 Cuando no estoy frente al código...
 
 🎵 Escuchando música de todo tipo (me ayuda a concentrarme)  
